@@ -1,8 +1,46 @@
-# Vue 3 + Vite
+# Image Gallery App
 
-This template should help get you started developing with Vue 3 in Vite. The template uses Vue 3 `<script setup>` SFCs, check out the [script setup docs](https://v3.vuejs.org/api/sfc-script-setup.html#sfc-script-setup) to learn more.
+A simple image gallery application built using Vue 3 and Tailwind CSS.
 
-## Recommended IDE Setup
+## Table of Contents
 
-- [VS Code](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
-# image-gallery
+- [Demo](#demo)
+- [Features](#features)
+- [Getting Started](#getting-started)
+  - [Prerequisites](#prerequisites)
+  - [Installation](#installation)
+- [Usage](#usage)
+
+## Demo
+
+You can check out the live demo of this project [here](https://image-gallery-oku7.onrender.com).
+
+## Features
+
+- Display a collection of images in a grid layout.
+- Filter images by author.
+- Paginate through images for better navigation.
+
+## Getting Started
+
+### Prerequisites
+
+Before running this project, make sure you have the following tools installed:
+
+- Node.js and npm (Node Package Manager)
+
+### Installation
+
+1. Clone the repository to your local machine:
+    `git clone https://github.com/your-username/image-gallery-app.git`
+2. Navigate to the project directory:
+    `cd image-gallery-app`
+3. Install the project dependencies:
+    `npm install`
+
+ ### Usage
+
+1. Start the development server:
+    `npm run dev`
+2. Open your web browser and go to http://localhost:5173 to view the application.
+3. Explore the image gallery, apply filters by author, and paginate through the images.
