@@ -1,5 +1,5 @@
 <template>
-    <div class="bg-black p-4">
+    <div class="bg-black p-4  w-full">
         <h2>Contact Us</h2>
         <p>Phone: +7 771 633-10-12</p>
         <p>Email: yerezhepabdulla@gmail.com</p>
