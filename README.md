@@ -32,9 +32,9 @@ Before running this project, make sure you have the following tools installed:
 ### Installation
 
 1. Clone the repository to your local machine:
-    `git clone https://github.com/your-username/image-gallery-app.git`
+    `git clone https://github.com/your-username/image-gallery.git`
 2. Navigate to the project directory:
-    `cd image-gallery-app`
+    `cd image-gallery`
 3. Install the project dependencies:
     `npm install`
 
